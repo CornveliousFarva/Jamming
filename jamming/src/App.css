@@ -61,6 +61,17 @@ h2{
   background-color: rgba(1, 12, 63, 0.7);
   box-shadow: 0 4px 2px 2px #000000;
 }
+
+.Playlist input {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 1px solid #6f6f6f;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 1.55rem;
+  color: #fff;
+}
 /* Search Bar  CSS*
 /* Search Results CSS */
 /* Track CSS */
