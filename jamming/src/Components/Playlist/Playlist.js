@@ -2,7 +2,7 @@ import { useCallback } from "react";
 
 import "../App.css";
 
-import TrackList from "../Components/Tracklist";
+import TrackList from "../Tracklist/Tracklist";
 
 export default function Playlist(){
     const Playlist = (props) => {
